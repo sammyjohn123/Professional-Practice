@@ -5,4 +5,4 @@ Sam- Robotic Process Automation (RPA)
 Edward - Medical Robotics
 
 ### Phia - Internet of Behaviors 
-Yvan - <strong>Virtual Reality</strong>
+<strong>Virtual Reality</strong>-<em>Yvan</em>
